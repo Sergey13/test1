@@ -8,7 +8,5 @@
 <body>
 	<h1>hello world</h1>
 	<h2>hello world2</h2>
-	<h2>hello world2</h2>
-	<p>ggggggggggggggg</p>
-</body>
+	<h3></h3>
 </html>
